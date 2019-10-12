@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-Hello sergey! P.s Krayko
-=======
 
+Hello sergey! P.s Krayko
 vorobey
 
 same text and mac the best
 
->>>>>>> 6da944d87d57af2e2232ebd646585d475d00a19d
